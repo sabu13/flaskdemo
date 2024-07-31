@@ -1,0 +1,18 @@
+[
+    {
+      "productId": 4321,
+      "productName": "Iphone15Pro",
+      "price": 90000.5 
+       } ,
+    {
+      "productId": 3214,
+      "productName": "samsungS24",
+      "price": 90000.5
+    },
+    {
+      "productId": 2231,
+      "productName": "oneplus12",
+      "price": 68478
+    }
+  ]
+  
